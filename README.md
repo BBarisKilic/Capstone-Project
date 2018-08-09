@@ -5,9 +5,7 @@ Final project at Udacity Android Developer Nanodegree Program.
 
 ### Main Screen
 
-<p align="left">
-<img src="https://github.com/BBarisKilic/Capstone-Project/tree/master/ConseptArts/main_screen.jpg" height="690" width="484"/>
-</p>
+![ScreenShot](/ConseptArts/main_screen.jpg)
 
 ### History Screen
 
