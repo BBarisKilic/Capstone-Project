@@ -1,5 +1,5 @@
-# Capstone-Project
-Final project at Udacity Android Developer Nanodegree Program.
+# Capstone-Project / Part I
+Sixth and Final Project at Udacity Android Developer Nanodegree Program
 
 ## Consept Arts
 
